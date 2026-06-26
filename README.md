@@ -12,6 +12,7 @@
 - Sleeps too late
 - Opens 47 tabs simultaneously
 - Occasionally forgets why entered room
+- Uses a monitor that is too big for anyone to see anything on.
 
 ---
 
