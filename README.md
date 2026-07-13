@@ -104,3 +104,6 @@ This build is unique and not reproducible.
 - бемева любимая всегда ездит а х5 вскоре появится и будет стоять рядом (ездить тоже будет. исправно.)
 
 И пусть ты сам себе будешь самой стабильной версией.
+
+
+терминал: https://drive.google.com/file/d/1gNcjvb0vcbHxAWJD5Boymd52DtQk78Yl/view?usp=sharing
